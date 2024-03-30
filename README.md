@@ -5,7 +5,7 @@ Very basic API client for the [infravelo.de](https://www.infravelo.de) API.
 ## Setup
 
 1. Install Rust via [rustup.rs](https://rustup.rs)
-2. Clone the repo & the repo dir `git clone https://github.com/phansch/infravelo-rs.git && cd infravelo-rs`
+2. Clone the repo & change to the repo dir `git clone https://github.com/phansch/infravelo-rs.git && cd infravelo-rs`
 3. Run `cargo run` to fetch all data.
 
 ## Disclaimer
